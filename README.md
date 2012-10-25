@@ -1,4 +1,4 @@
-r10-pm
+r10.net PM Notications Chrome Extension
 ======
 
-r10.net PM Notifications
+* vBulletin Forums PM Notifications Extension
